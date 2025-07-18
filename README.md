@@ -1,6 +1,6 @@
 ## AI-Based-Early-Disease-Detection-System
 ## Project Title
-AI-Based-Early-Disease-Detection-System
+AI-Based-Health-Monitoring-System
 
 ## Description
 ## HEART FAILURE PREDICTION
@@ -41,7 +41,7 @@ git clone https://github.com/plk456/Early-Disease-Detection-System.git
 ```
 ## Create directory
 ```
-cd Early-Disease-Detection-System
+cd AI-Based-Health-Monitoring-System
 ```
 ## Creating virtual environment
 ```
